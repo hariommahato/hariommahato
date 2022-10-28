@@ -1,0 +1,15 @@
+.aboutImgHolder{
+    background:url('../../Assets/images/aboutbg.jpeg');
+    background-size: cover;
+    background-color: red;
+    border: none;
+
+}
+.aboutCardGroup{
+    height: 17rem;
+}
+.aboutMainContainer{
+    height:100%;
+    margin-top: 8rem;
+
+}
